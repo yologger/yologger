@@ -2,7 +2,7 @@
 아키텍쳐와 신기술에 관심이 많습니다.
 Material Design
 
-# Tech Stack
+# Technology
 
 ## Programming Launguage
 * Kotlin `(Main)`
@@ -17,13 +17,13 @@ Material Design
 * Kotlin Coroutine, Flow
 * Koin
 * Hilt
-* Android Architecture Component - Data Binding, ViewModel, LiveData
+* Android Architecture Component - Data Binding, ViewModel, LiveData, Room
 * Android Navigation Component
 * Android Material Conponent
 * Android Jetpack Compose
 * Android KTX
 * OkHttp3 and Retrofit2
-* 
+* MySQL, Realm
 
 ## iOS
 * CocoaPod
@@ -60,6 +60,7 @@ Material Design
 
 ## Platform
 * Heroku
+* Firebase
 * AWS EC2
 * AWS S3
 * AWS RDB
