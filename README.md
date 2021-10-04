@@ -1,8 +1,16 @@
 # Introduction
-아키텍쳐와 신기술에 관심이 많습니다.
-Material Design
+🖐 An `Android developer` with a lot of interest in Architecture Pattern & UI/UX.
+⚽️ Big fan of Manchester United. 👺 Glory! glory, Man United! 
+🍺 Like ale beer.
+🏛 Love to look around the interiors and furniture.
+🏊‍♂️ Enjoy swimming.
+📱 Use Google Android & Samsung Galaxy 
 
 # Technology
+
+## UI/UX Design
+* Figma
+* Zeplin
 
 ## Programming Launguage
 * Kotlin `(Main)`
