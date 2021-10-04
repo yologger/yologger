@@ -18,7 +18,6 @@
 * Java
 * Swift
 * JavaScript
-* Dart
 
 ### Android `(Main)`
 * Gradle
@@ -42,11 +41,6 @@
 * Kingfisher
 * Swinject
 * FMDB
-
-### Flutter
-* Cupertino icons
-* RxDart
-* Flutter Bloc
 
 ### Node.js
 * node.js
