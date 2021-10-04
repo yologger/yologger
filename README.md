@@ -9,18 +9,18 @@
 
 # Technology
 
-## UI/UX Design
+### UI/UX Design
 * Figma
 * Zeplin
 
-## Programming Launguage
+### Programming Launguage
 * Kotlin `(Main)`
 * Java
 * Swift
 * JavaScript
 * Dart
 
-## Android `(Main)`
+### Android `(Main)`
 * Gradle
 * RxKotlin, RxAndroid
 * Kotlin Coroutine, Flow
@@ -34,7 +34,7 @@
 * OkHttp3 and Retrofit2
 * MySQL, Realm
 
-## iOS
+### iOS
 * CocoaPod
 * Carthage
 * RxSwift, RxCocoa
@@ -43,12 +43,12 @@
 * Swinject
 * FMDB
 
-## Flutter
+### Flutter
 * Cupertino icons
 * RxDart
 * Flutter Bloc
 
-## Node.js
+### Node.js
 * node.js
 * express.js
 * multer.js
@@ -56,18 +56,18 @@
 * sequelize.js
 * mongoose.js
 
-## Spring Boot
+### Spring Boot
 * Spring Boot
 * Spring Security
 * Spring Data JPA
 * Lombok
 
-## Database
+### Database
 * Oracle Database
 * MySql
 * Mongo DB
 
-## Platform
+### Platform
 * Heroku
 * Firebase
 * AWS EC2
