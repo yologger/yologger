@@ -1,5 +1,5 @@
 # Introduction
-🖐 An `Android developer` with a lot of interest in Architecture Pattern & UI/UX.
+🖐 An `Android developer` with a lot of interest in Architecture Pattern & UI/UX. <br />
 ⚽️ Big fan of Manchester United. 👺 Glory! glory, Man United! 
 🍺 Like ale beer.
 🏛 Love to look around the interiors and furniture.
