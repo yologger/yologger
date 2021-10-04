@@ -2,7 +2,7 @@
 
 # Tech Stack
 
-## Android (Main)
+## Android `(Main)`
 
 ## iOS
 
