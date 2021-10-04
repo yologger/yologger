@@ -3,7 +3,7 @@
 <br/>
 * Big fan of Manchester United ⚽️
 * Like ale beer 🍺
-* Love to look around the interiors and furniture 🏛
+* Love to look around furniture and interiors 🏛
 * Enjoy swimming 🏊‍
 * Use Google Android & Samsung Galaxy 📱
 
