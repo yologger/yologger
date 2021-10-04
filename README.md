@@ -2,11 +2,11 @@
 🖐&nbsp;&nbsp;Hi. I'm an `Android developer` with a lot of interest in Architecture Pattern & UI/UX. <br/>
 <br/>
 
-⚽️ Big fan of Manchester United. 👺 Glory! glory, Man United! <br/>
-🍺 Like ale beer. <br/>
-🏛 Love to look around the interiors and furniture.<br/>
-🏊‍♂️ Enjoy swimming. <br/>
-📱 Use Google Android & Samsung Galaxy <br/>
+⚽️&nbsp;&nbsp;Big fan of Manchester United. 👺 Glory! glory, Man United! <br/>
+🍺&nbsp;&nbsp;Like ale beer. <br/>
+🏛&nbsp;&nbsp;Love to look around the interiors and furniture.<br/>
+🏊‍♂️&nbsp;&nbsp;Enjoy swimming. <br/>
+📱&nbsp;&nbsp;Use Google Android & Samsung Galaxy <br/>
 
 # Technology
 
