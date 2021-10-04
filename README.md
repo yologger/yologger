@@ -31,7 +31,7 @@
 * Android Jetpack Compose
 * Android KTX
 * OkHttp3 and Retrofit2
-* MySQL, Realm
+* Local caching - MySQL, Realm
 
 ### iOS
 * CocoaPod
