@@ -1,5 +1,5 @@
 # Introduction
-🖐&nbsp;&nbsp;Hi. I'm an `Android developer`. I'm interested in <u>UI/UX</u> and <u>Architecutre Pattern</u>.
+🖐&nbsp;&nbsp;Hi. I'm an `Android developer`. I'm interested in **UI/UX** and **Architecutre Pattern**.
 <br/>
 * Big fan of Manchester United ⚽️
 * Like ale beer 🍺
