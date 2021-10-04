@@ -61,7 +61,7 @@
 * MySql
 * Mongo DB
 
-### Platform
+### Infrastructure
 * Heroku
 * Firebase
 * AWS EC2
