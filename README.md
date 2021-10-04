@@ -1,10 +1,12 @@
 # Introduction
-🖐 An `Android developer` with a lot of interest in Architecture Pattern & UI/UX. <br />
-⚽️ Big fan of Manchester United. 👺 Glory! glory, Man United! 
-🍺 Like ale beer.
-🏛 Love to look around the interiors and furniture.
-🏊‍♂️ Enjoy swimming.
-📱 Use Google Android & Samsung Galaxy 
+🖐 Hi. I'm an `Android developer` with a lot of interest in Architecture Pattern & UI/UX. <br/>
+<br/>
+
+⚽️ Big fan of Manchester United. 👺 Glory! glory, Man United! <br/>
+🍺 Like ale beer. <br/>
+🏛 Love to look around the interiors and furniture.<br/>
+🏊‍♂️ Enjoy swimming. <br/>
+📱 Use Google Android & Samsung Galaxy <br/>
 
 # Technology
 
