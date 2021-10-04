@@ -2,7 +2,7 @@
 🖐&nbsp;&nbsp;Hi. I'm an `Android developer` with a lot of interest in Architecture Pattern & UI/UX. <br/>
 <br/>
 
-⚽️&nbsp;&nbsp;Big fan of Manchester United.
+⚽️&nbsp;&nbsp;Big fan of Manchester United. <br/>
 🍺&nbsp;&nbsp;Like ale beer. <br/>
 🏛&nbsp;&nbsp;Love to look around the interiors and furniture.<br/>
 🏊‍♂️&nbsp;&nbsp;Enjoy swimming. <br/>
