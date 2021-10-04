@@ -14,12 +14,12 @@
 * Zeplin
 
 ### Programming Launguage
-* Kotlin `(✨ Main)`
+* Kotlin `(✨Main)`
 * Java
 * Swift
 * JavaScript
 
-### Android `(✨ Main)`
+### Android `(✨Main)`
 * Gradle
 * RxKotlin, RxAndroid
 * Kotlin Coroutine, Flow
