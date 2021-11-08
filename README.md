@@ -8,6 +8,7 @@ Hi🖐&nbsp; I'm an `Android developer`. I'm interested in **UI/UX** & **Archite
 * Use Google Android & Samsung Galaxy 📱
 
 # Tech Stack
+* Android
 * Kotlin
 * Java
 * Android
