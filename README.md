@@ -19,7 +19,9 @@ Hi🖐&nbsp; I'm an `Android developer`. I'm interested in **UI/UX** & **Archite
 * RxBinding
 * RxAndroid
 * Android Material Component
-* Android Architecture Component (LiveData, Data Binding, Room)
+* Android Architecture Component
+* View Binding
+* Data Binding
 * Android Navigation Component
 * Jetpack Compose
 * Coroutine (Flow, Channel, StateFlow)
@@ -36,3 +38,4 @@ Hi🖐&nbsp; I'm an `Android developer`. I'm interested in **UI/UX** & **Archite
 * Firebase
 * SQLite
 * Realm
+* Room
