@@ -7,7 +7,7 @@ UI/UX에 관심이 많은 안드로이드 개발자입니다.
 * Android
 * Clean Architecture
 * RxJava
-* Coroutin
+* Coroutine
 * Jetpack ACC - View Binding, Data Binding, LiveData, ViewModel
 * Jetpack Compose
 * DI (Koin, Dagger2, Hilt)
