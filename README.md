@@ -1,40 +1,16 @@
 # Introduction
-Hi🖐&nbsp; I'm an `Android developer`. I'm interested in **UI/UX** & **Architecutre** .
-<br/>
-* Big fan of Manchester United ⚽️
-* Like ale beer 🍺
-* Love to look around interiors and furniture 🏛
-* Enjoy swimming 🏊‍
-* Use Google Android & Samsung Galaxy 📱
+UI/UX에 관심이 많은 안드로이드 개발자입니다.
 
 # Tech Stack
 * Java
 * Kotlin
 * Android
-* MVC, MVP, MVVM, MVI, Clean Architecture
-* Gradle
-* RxKotlin
+* Clean Architecture
 * RxJava
-* RxBinding
-* RxAndroid
-* Android Material Component
-* Android Architecture Component
-* View Binding
-* Data Binding
-* Android Navigation Component
+* Coroutin
+* Jetpack ACC - View Binding, Data Binding, LiveData, ViewModel
 * Jetpack Compose
-* Coroutine (Flow, Channel, StateFlow)
-* Android KTX
-* Koin
-* Dagger
-* Hilt
-* OkHttp, Retrofit
-* Glide
-* JUnit
-* Mockito, Mockk
-* Espresso
-* Google Play Console
-* Firebase
-* SQLite
-* Realm
-* Room
+* DI (Koin, Dagger2, Hilt)
+* TDD (JUnit, Mockito, Espresso)
+* Retrofit2
+* Figma, Sketch, Zeplin
