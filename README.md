@@ -1,5 +1,5 @@
 # Introduction
-UI/UX에 관심이 많은 안드로이드 개발자입니다.
+Java, Kotlin을 좋아하는 개발자입니다.
 
 # Tech Stack
 * Java
