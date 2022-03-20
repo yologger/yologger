@@ -10,6 +10,7 @@
 ## Spring
 * Spring Boot
 * Spring MVC
+* Spring Test
 * Spring Data JPA
 * Spring Security  
 * Spring Mail
