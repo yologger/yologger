@@ -18,7 +18,7 @@
 ## Infra/DevOps
 * AWS (EC2, S3, RDS, Code Deploy)
 * MySQL
-* Oracle 
+* Oracle DB 
 * Maria DB
 
 ## Android
