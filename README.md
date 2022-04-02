@@ -12,11 +12,15 @@
 * Spring MVC
 * Spring Test
 * Spring Data JPA
+  * Hibernate 
+  * Query DSL
 * Spring Security  
+* Spring Validation
 * Spring Mail
 
 ## Infra/DevOps
 * AWS (EC2, S3, RDS, Code Deploy)
+* GitHub Actions
 * MySQL
 * Oracle DB 
 * Maria DB
@@ -34,6 +38,7 @@
   - JUnit 4
   - Mockito
   - Espresso
+  - MockWebServer
 - Retrofit2
 - Glide
 - Clean Architecture
