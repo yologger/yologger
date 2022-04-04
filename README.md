@@ -11,12 +11,13 @@
 * Spring Boot
 * Spring MVC
 * Spring Test
+* Hibernate 
+* Query DSL
 * Spring Data JPA
-  * Hibernate 
-  * Query DSL
 * Spring Security  
 * Spring Validation
 * Spring Mail
+* Layered Architecture
 
 ## Infra/DevOps
 * AWS (EC2, S3, RDS, Code Deploy)
@@ -27,8 +28,6 @@
 
 ## Android
 - ACC
-  - View Binding
-  - Data Binding
 - Jetpack Compose
 - RxJava
 - Coroutine
@@ -41,4 +40,5 @@
   - MockWebServer
 - Retrofit2
 - Glide
+- MVC, MVP, MVVM
 - Clean Architecture
