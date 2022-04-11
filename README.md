@@ -17,14 +17,17 @@
 * Spring Security  
 * Spring Validation
 * Spring Mail
-* Layered Architecture
 
 ## Infra/DevOps
 * AWS (EC2, S3, RDS, Code Deploy)
 * GitHub Actions
+* Docker
+* Kubernetes
+* Oracle
 * MySQL
-* Oracle DB 
 * Maria DB
+* Redis
+* Mongo DB
 
 ## Android
 - ACC
