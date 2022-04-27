@@ -19,15 +19,15 @@
 * Spring Mail
 
 ## Infra/DevOps
-* AWS (EC2, S3, RDS, Code Deploy)
+* AWS (EC2, S3, RDS, Code Deploy, ECR)
 * GitHub Actions
 * Docker
-* Kubernetes
+* Kubernetes, ArgoCD, Kustomize
 * Oracle
 * MySQL
 * Maria DB
-* Redis
 * Mongo DB
+* Redis
 
 ## Android
 - ACC
