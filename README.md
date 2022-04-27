@@ -11,12 +11,14 @@
 * Spring Boot
 * Spring MVC
 * Spring Test
-* Hibernate 
-* Query DSL
-* Spring Data JPA
 * Spring Security  
 * Spring Validation
 * Spring Mail
+* Hibernate 
+* Query DSL
+* Spring Data JPA
+* Spring Data Mongo
+* Spring Data Redis
 
 ## Infra/DevOps
 * AWS (EC2, S3, RDS, Code Deploy, ECR)
