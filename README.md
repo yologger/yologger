@@ -20,7 +20,6 @@
 
 ## Infra/DevOps
 * AWS (EC2, S3, RDS, Code Deploy, ECR)
-* GitHub Actions
 * Docker
 * Kubernetes, ArgoCD, Kustomize
 * Oracle
@@ -28,6 +27,7 @@
 * Maria DB
 * Mongo DB
 * Redis
+* GitHub Actions
 
 ## Android
 - ACC
