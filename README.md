@@ -14,22 +14,27 @@
 * Spring Security  
 * Spring Validation
 * Spring Mail
-* Hibernate 
-* Query DSL
 * Spring Data JPA
+   * Hibernate 
+   * Query DSL
 * Spring Data Mongo
 * Spring Data Redis
+* Spring WebFlux
+* Spring WebSocket
+* Spring gRPC 
 
 ## Infra/DevOps
-* AWS (EC2, S3, RDS, Code Deploy, ECR)
+* AWS - EC2, S3, RDS, Code Deploy, ECR
 * Docker
-* Kubernetes, ArgoCD, Kustomize
+* Kubernetes (ArgoCD, Kustomize)
+* GitHub Actions
+
+## Database
 * Oracle
 * MySQL
 * Maria DB
 * Mongo DB
 * Redis
-* GitHub Actions
 
 ## Android
 - ACC
