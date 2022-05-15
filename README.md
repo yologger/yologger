@@ -21,13 +21,15 @@
 * Spring Data Redis
 * Spring WebFlux
 * Spring WebSocket
-* Spring gRPC 
+* Spring gRPC
+* Spring Kafka 
 
 ## Infra/DevOps
 * AWS - EC2, S3, RDS, Code Deploy, ECR
 * Docker
 * Kubernetes (ArgoCD, Kustomize)
 * GitHub Actions
+* Apache Kafka
 
 ## Database
 * Oracle
