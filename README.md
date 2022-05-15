@@ -1,7 +1,4 @@
-# Introduction
 `Java`와 `Kotlin`을 좋아하는 개발자입니다. `스프링`과 `안드로이드` 개발에 관심이 많습니다.
-
-# Tech Stack
 
 ## Programming Language
 - Java
