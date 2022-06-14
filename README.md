@@ -1,4 +1,10 @@
-`Java`와 `Kotlin`을 좋아하는 개발자입니다. `스프링`과 `안드로이드` 개발에 관심이 많습니다.
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
+
+- `Java`와 `Kotlin`을 좋아하는 백엔드 개발자입니다. 
+- `Spring Framework`, `MSA`, `DevOps`에 관심이 많으며 `Android` 개발도 병행하고 있습니다.
+- Techs that I've used at least once.
+
 
 ## Programming Language
 - Java
