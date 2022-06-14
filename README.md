@@ -2,14 +2,12 @@
 - `Spring Framework`, `MSA`, `DevOps`에 관심이 많습니다.
 - `Android` 개발도 병행하고 있습니다.
 
-<div align=center>
- ![아이디's github stats](https://github-readme-stats.vercel.app/api?username=yologger&show_icons=true)
-</div>
+![아이디's github stats](https://github-readme-stats.vercel.app/api?username=yologger&show_icons=true)
 
 ### Skill
 <!-- Launguage -->
 <p float="left">
- <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+ - <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
