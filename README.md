@@ -1,7 +1,7 @@
 ### Introduce
-- `Java`와 `Kotlin`을 좋아하는 백엔드 개발자입니다. 
-- `Spring Framework`, `MSA`, `DevOps`에 관심이 많습니다.
-- `Android` 개발도 병행하고 있습니다.
+- `Java`와 `Kotlin`을 좋아하는 개발자입니다. 
+- 주로 `Spring Framework`, `Android` 개발을 하고 있습니다.
+- `MSA`, `DevOps`에도 관심이 많습니다.
 
 ### Skill
 <!-- Launguage -->
