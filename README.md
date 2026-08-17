@@ -1,7 +1,7 @@
-- `자동화`와 `확장 가능한 아키텍처 설계`에 관심이 많은 백엔드 개발자입니다.
-- `Spring Framework`, `AWS`, `Kubernetes`을 주로 사용하고 있습니다.
-- 동료가 믿고 사용하는 코드를 작성하려고 합니다. 이를 위해 항상 테스트 코드를 작성합니다.
-
-</br>
-
-  ![아이디's github stats](https://github-readme-stats.vercel.app/api?username=yologger&show_icons=true)
+안녕하세요.
+DevOps + SRE Engineer 권혁정입니다.
+확장 가능하고, 관리하기 수월한 인프라 아키텍처 설계에 관심이 많습니다.
+- [경력](https://yologger.notion.site/3ad14997d60680e587b8f68657e429ad?pvs=73)
+- [기술 스택](https://yologger.notion.site/3ad14997d60680c38712eaeebdb7c66b)
+- [포트폴리오](https://github.com/yologger/yologram)
+- [기술블로그](https://blog.yologram.link/)
