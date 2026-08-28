@@ -1,5 +1,4 @@
 안녕하세요 😊
-
 DevOps / SRE 4년차 엔지니어 권혁정입니다.
 
 저는 다음 사항을 중요하게 생각하며 일하고 있습니다.
@@ -10,7 +9,7 @@ DevOps / SRE 4년차 엔지니어 권혁정입니다.
 
 # About me
 
-- [기술 스택](https://yologger.notion.site/3ad14997d60680c38712eaeebdb7c66b)
 - [경력](https://yologger.notion.site/3ad14997d60680e587b8f68657e429ad?pvs=73)
+- [기술 스택](https://yologger.notion.site/3ad14997d60680c38712eaeebdb7c66b)
 - [기술블로그](https://blog.yologram.link/)
 - [포트폴리오](https://github.com/yologger/yologram)
