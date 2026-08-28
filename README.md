@@ -10,5 +10,5 @@ DevOps / SRE 4년차 엔지니어 권혁정입니다.
 # About me
 
 - [경력 기술서](https://yologger.notion.site/3c514997d60680428249d98a04885b11?pvs=74)
-- [포트폴리오(사이드프로젝트)](https://github.com/yologger/yologram)
+- [포트폴리오 (사이드프로젝트)](https://github.com/yologger/yologram)
 - [기술블로그](https://blog.yologram.link/)
